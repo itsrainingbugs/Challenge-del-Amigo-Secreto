@@ -17,4 +17,8 @@ Este es un proyecto en **JavaScript, HTML y CSS** que permite ingresar nombres d
 
 1. **Clonar el repositorio**  
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/itsrainingbugs/Challenge-del-Amigo-Secreto
+
+## Visualización en Vercel
+
+https://challenge-del-amigo-secreto.vercel.app/
